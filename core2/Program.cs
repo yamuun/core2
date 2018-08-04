@@ -7,6 +7,8 @@ namespace core2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Comeon! github!");
+            Console.Write("誤字はいけませんよ！");
         }
     }
 }
