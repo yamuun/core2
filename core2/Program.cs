@@ -9,6 +9,7 @@ namespace core2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Comeon! github!");
             Console.Write("誤字はいけませんよ！");
+            Console.Write("追記します");
         }
     }
 }
